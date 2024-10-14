@@ -1,0 +1,29 @@
+_repo: Kentta-ja-kasarmi-b-Kertomuksia-tasavallan-armeijasta_74512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haanpää, Pentti
+    alias: Haanpaa, Pentti
+    birthdate: 1905
+    deathdate: 1955
+    gutenberg_agent_id: '55819'
+    url: http://www.gutenberg.org/2009/agents/55819
+    wikipedia: https://fi.wikipedia.org/wiki/Pentti_Haanp%C3%A4%C3%A4
+description: ''
+gutenberg_issued: '2024-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74512'
+language: fi
+pgterms:marc905: 20240629223818haanp
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava/Kansanvalta, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kenttä ja kasarmi : $b Kertomuksia tasavallan armeijasta'
+url: http://www.gutenberg.org/ebooks/74512
